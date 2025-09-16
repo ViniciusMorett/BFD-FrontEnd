@@ -1,6 +1,6 @@
 //Lista 01 de exercícios de JS. A saída dos códigos está expressa em comentário para melhor entendimento, do que no terminal.
-
 // Questão 1
+
 let nome = "Vinícius";   
 const idade = 18;        
 
