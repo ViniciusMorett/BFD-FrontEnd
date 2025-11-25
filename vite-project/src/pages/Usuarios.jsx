@@ -20,7 +20,7 @@ function Usuarios() {
 
         } +
             fetchUsers();
-    }, []); // dependências vazias = executa só uma vez
+    }, []); // dependências vazias = executa só uma vez (sla)
 
     return (
         <>
